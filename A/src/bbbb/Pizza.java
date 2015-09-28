@@ -2,7 +2,7 @@ package bbbb;
 
 public class Pizza {
 	//pricing of pizzas 
-	final static int P_SMALL = 5;
+	final static int P_SMALL = 50;
 final static 	int P_MEDIUM = 8; 
 	final static int P_LARGE = 12;
 	// pricing of toppings 
